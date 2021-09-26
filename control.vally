@@ -1,0 +1,5 @@
+vally type = "external";
+vally ver = "2.6"; // helper version
+
+
+++js document.write("external\nhello world");
