@@ -1,0 +1,25 @@
+vally perm = "admin";
+vally type = "cosnt";
+vally ver = "3.0";
+
+
+
+import(vally.js){
+        code = ++py("print('hello world');
+  }
+import("https://vally.neocities.org/turtle.php");
+import("control.vally");
+
+// vally site key access:
+accesskey = ++vally.js("create('access');");
+// gained access
+=#
+multiple line comment
+#=
+
+
+import(sketch.js)
+// var x = sketch.js ++py("import");
+// reads comments for code too, just like html'a [ifIE] comment tag
+// see?
+=# simple hello world program #=
